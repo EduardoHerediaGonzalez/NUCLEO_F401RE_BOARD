@@ -1,0 +1,5 @@
+.DS_Store
+.settings/*
+Debug/*
+Release/*
+NUCLEO_F401RE_BOARD Debug.launch
